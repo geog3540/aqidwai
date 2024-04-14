@@ -1,2 +1,2 @@
-# aqidwai
-GEOG3540/aqidwai - Amira Qidwai
+# Geographic Visualization Portfolio Repository 
+GEOG:3540 - Amira Qidwai
